@@ -1,1 +1,4 @@
+move the exe files in this folder like ffmpeg.exe,ytdll.exe,
+1.  https://github.com/yt-dlp/yt-dlp/releases
 
+2. https://www.gyan.dev/ffmpeg/builds/
